@@ -55,3 +55,5 @@ app.listen(
             .bold
     )
 )
+
+console.log(process.env.PORT)
