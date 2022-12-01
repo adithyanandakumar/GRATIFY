@@ -2,7 +2,8 @@
 
 > Full Stack Website built with the MERN stack.
 
-Food Sewa is a web application serves as a multi channel platform for NGOs and volunteers to connect with one another. It aims to minimize food wastage by redistributing excess food.
+Gratify
+is a web application serves as a multi channel platform for NGOs and volunteers to connect with one another. It aims to minimize food wastage by redistributing excess food.
 
 
 
