@@ -34,7 +34,7 @@ const NgoHeader = (props) => {
             <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
                 <Container>
                     <LinkContainer to='/dashboard'>
-                        <Navbar.Brand>Food Sewa</Navbar.Brand>
+                        <Navbar.Brand>Gratify</Navbar.Brand>
                     </LinkContainer>
                     <Navbar.Toggle
                         onClick={handleToggle}
