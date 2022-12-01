@@ -8,7 +8,7 @@ const LandingHeader = () => {
             <Navbar bg='dark' variant='dark' expand='lg'>
                 <Container>
                     <LinkContainer to='/'>
-                        <Navbar.Brand>Food Sewa</Navbar.Brand>
+                        <Navbar.Brand><b>Gratify</b></Navbar.Brand>
                     </LinkContainer>
                 </Container>
             </Navbar>

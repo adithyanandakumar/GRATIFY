@@ -12,7 +12,7 @@ const Meta = ({ title, description, keywords }) => {
 }
 
 Meta.defaultProps = {
-    title: 'Welcome To Food Sewa',
+    title: 'Welcome To Gratify',
     description: '',
     keywords: '',
 }
