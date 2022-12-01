@@ -155,7 +155,7 @@ const NgoRegisterScreen = ({ history }) => {
                         ></Form.Control>
                     </Form.Group>
 
-                    <Button type='submit' variant='primary'>
+                    <Button className='btn3' type='submit' variant='outline-primary'>
                         Register
                     </Button>
                 </Form>

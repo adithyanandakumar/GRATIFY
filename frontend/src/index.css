@@ -41,7 +41,11 @@
 .btn2 {
     margin-left: 20px;
     margin-bottom: 0;
-    background-color: black;
+    background-color: #F9A826;
+    color: white;
+}
+.btn3{
+    background-color: #F9A826;
     color: white;
 }
 main {

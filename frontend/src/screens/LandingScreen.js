@@ -2,6 +2,7 @@ import React from 'react'
 import { Button } from 'react-bootstrap'
 import LandingHeader from '../components/LandingHeader'
 import TINY from '../images/TINY.JPG'
+import FOOD from '../images/FOOD.png'
 const LandingScreen = ({ history }) => {
     const homeHandler = () => {
         history.push(`/home`)
@@ -45,7 +46,7 @@ const LandingScreen = ({ history }) => {
                     </div>
                 </div>
                 <div className='Container2'>
-                    <img className='image' src={TINY} alt='image' />
+                    <img className='image' src={FOOD} alt='image' />
                 </div>
             </div>
         </>
